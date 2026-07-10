@@ -1,0 +1,4 @@
+# credential test
+
+AWSAccessKeyId:`12345678901234567890`
+AWSSecretAccessKey:`1234567890123456678990`
